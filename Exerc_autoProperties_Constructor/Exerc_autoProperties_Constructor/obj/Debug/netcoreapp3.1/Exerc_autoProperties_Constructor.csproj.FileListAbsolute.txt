@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\obj\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\obj\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\obj\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.AssemblyInfo.cs
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\obj\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\bin\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.exe
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\bin\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.deps.json
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\bin\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.runtimeconfig.json
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\bin\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\bin\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.dll
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\bin\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.pdb
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\obj\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.dll
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\obj\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.pdb
+C:\Users\User\Documents\Curso C#\Exerc_autoProperties_Constructor\Exerc_autoProperties_Constructor\obj\Debug\netcoreapp3.1\Exerc_autoProperties_Constructor.genruntimeconfig.cache

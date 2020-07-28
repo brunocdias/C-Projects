@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\bin\Debug\netcoreapp3.1\Exerc_Vetores_Array.exe
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\bin\Debug\netcoreapp3.1\Exerc_Vetores_Array.deps.json
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\bin\Debug\netcoreapp3.1\Exerc_Vetores_Array.runtimeconfig.json
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\bin\Debug\netcoreapp3.1\Exerc_Vetores_Array.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\bin\Debug\netcoreapp3.1\Exerc_Vetores_Array.dll
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\bin\Debug\netcoreapp3.1\Exerc_Vetores_Array.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\obj\Debug\netcoreapp3.1\Exerc_Vetores_Array.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\obj\Debug\netcoreapp3.1\Exerc_Vetores_Array.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\obj\Debug\netcoreapp3.1\Exerc_Vetores_Array.AssemblyInfo.cs
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\obj\Debug\netcoreapp3.1\Exerc_Vetores_Array.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\obj\Debug\netcoreapp3.1\Exerc_Vetores_Array.dll
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\obj\Debug\netcoreapp3.1\Exerc_Vetores_Array.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Vetores_Array\Exerc_Vetores_Array\obj\Debug\netcoreapp3.1\Exerc_Vetores_Array.genruntimeconfig.cache
