@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\bin\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.exe
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\bin\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.deps.json
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\bin\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.runtimeconfig.json
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\bin\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\bin\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.dll
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\bin\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\obj\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\obj\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\obj\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.AssemblyInfo.cs
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\obj\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\obj\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.dll
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\obj\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Herance_Polymorphism\Exerc_Herance_Polymorphism\obj\Debug\netcoreapp3.1\Exerc_Herance_Polymorphism.genruntimeconfig.cache

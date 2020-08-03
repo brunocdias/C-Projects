@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\bin\Debug\netcoreapp3.1\Exerc_String_Builder.exe
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\bin\Debug\netcoreapp3.1\Exerc_String_Builder.deps.json
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\bin\Debug\netcoreapp3.1\Exerc_String_Builder.runtimeconfig.json
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\bin\Debug\netcoreapp3.1\Exerc_String_Builder.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\bin\Debug\netcoreapp3.1\Exerc_String_Builder.dll
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\bin\Debug\netcoreapp3.1\Exerc_String_Builder.pdb
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\obj\Debug\netcoreapp3.1\Exerc_String_Builder.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\obj\Debug\netcoreapp3.1\Exerc_String_Builder.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\obj\Debug\netcoreapp3.1\Exerc_String_Builder.AssemblyInfo.cs
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\obj\Debug\netcoreapp3.1\Exerc_String_Builder.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\obj\Debug\netcoreapp3.1\Exerc_String_Builder.dll
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\obj\Debug\netcoreapp3.1\Exerc_String_Builder.pdb
+C:\Users\User\Documents\Curso C#\Exerc_String_Builder\Exerc_String_Builder\obj\Debug\netcoreapp3.1\Exerc_String_Builder.genruntimeconfig.cache

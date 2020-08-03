@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\bin\Debug\netcoreapp3.1\Exerc_List.exe
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\bin\Debug\netcoreapp3.1\Exerc_List.deps.json
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\bin\Debug\netcoreapp3.1\Exerc_List.runtimeconfig.json
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\bin\Debug\netcoreapp3.1\Exerc_List.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\bin\Debug\netcoreapp3.1\Exerc_List.dll
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\bin\Debug\netcoreapp3.1\Exerc_List.pdb
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\obj\Debug\netcoreapp3.1\Exerc_List.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\obj\Debug\netcoreapp3.1\Exerc_List.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\obj\Debug\netcoreapp3.1\Exerc_List.AssemblyInfo.cs
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\obj\Debug\netcoreapp3.1\Exerc_List.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\obj\Debug\netcoreapp3.1\Exerc_List.dll
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\obj\Debug\netcoreapp3.1\Exerc_List.pdb
+C:\Users\User\Documents\Curso C#\Exerc_List\Exerc_List\obj\Debug\netcoreapp3.1\Exerc_List.genruntimeconfig.cache

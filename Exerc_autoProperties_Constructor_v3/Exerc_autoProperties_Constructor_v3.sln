@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_autoProperties_Constructor_v3", "Exerc_autoProperties_Constructor_v3\Exerc_autoProperties_Constructor_v3.csproj", "{04AD3BC2-076B-4C73-AC13-0619EF65018F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AD3BC2-076B-4C73-AC13-0619EF65018F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AD3BC2-076B-4C73-AC13-0619EF65018F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AD3BC2-076B-4C73-AC13-0619EF65018F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AD3BC2-076B-4C73-AC13-0619EF65018F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E27A5D8-6C1E-4534-A30B-0E952F2ACB12}
+	EndGlobalSection
+EndGlobal

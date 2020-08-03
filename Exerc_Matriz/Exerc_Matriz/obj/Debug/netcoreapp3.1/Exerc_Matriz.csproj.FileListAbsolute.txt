@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.exe
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.deps.json
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.runtimeconfig.json
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.dll
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.AssemblyInfo.cs
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.dll
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.genruntimeconfig.cache

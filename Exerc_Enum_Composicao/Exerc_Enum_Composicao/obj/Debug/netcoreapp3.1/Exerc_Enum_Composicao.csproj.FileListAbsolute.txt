@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\bin\Debug\netcoreapp3.1\Exerc_Enum_Composicao.exe
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\bin\Debug\netcoreapp3.1\Exerc_Enum_Composicao.deps.json
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\bin\Debug\netcoreapp3.1\Exerc_Enum_Composicao.runtimeconfig.json
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\bin\Debug\netcoreapp3.1\Exerc_Enum_Composicao.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\bin\Debug\netcoreapp3.1\Exerc_Enum_Composicao.dll
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\bin\Debug\netcoreapp3.1\Exerc_Enum_Composicao.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\obj\Debug\netcoreapp3.1\Exerc_Enum_Composicao.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\obj\Debug\netcoreapp3.1\Exerc_Enum_Composicao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\obj\Debug\netcoreapp3.1\Exerc_Enum_Composicao.AssemblyInfo.cs
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\obj\Debug\netcoreapp3.1\Exerc_Enum_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\obj\Debug\netcoreapp3.1\Exerc_Enum_Composicao.dll
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\obj\Debug\netcoreapp3.1\Exerc_Enum_Composicao.pdb
+C:\Users\User\Documents\Curso C#\Exerc_Enum_Composicao\Exerc_Enum_Composicao\obj\Debug\netcoreapp3.1\Exerc_Enum_Composicao.genruntimeconfig.cache
